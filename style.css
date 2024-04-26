@@ -389,6 +389,14 @@ h3{
     .section-blue{
         width:100%;
     }
+
+    .banner{
+        width:100%;
+    }
+
+.menu-bar{
+    width:100%;
+}
     .container{
         width: 100%;
     }
@@ -441,7 +449,7 @@ h3{
     }
 
     .clientbanner-white img{
-        width: 800px;
+        width: 900px;
         height: 20px;
         object-fit: cover;
         padding: 3px;
@@ -451,6 +459,12 @@ h3{
          width: 100%;
         object-fit: cover;
 }
+    .footer{
+        width:100%;
+    }
+    .container.footer{
+        width:100%;
+    }
 
     .footer-space{
      grid-template-columns: 33% 33% 33%%;
