@@ -386,6 +386,14 @@ h3{
 
 
 @media (max-width: 1000px) {
+    .menu-bar{
+    width:100%;
+    padding:0px 0px;
+}
+    .link-right{
+        text-align:left;
+    }
+    
     .section-blue{
         width:100%;
         padding:40px 0px;
@@ -395,10 +403,7 @@ h3{
         width:100%;
     }
 
-.menu-bar{
-    width:100%;
-    padding:0px 0px;
-}
+
     .container{
         width: 100%;
     }
