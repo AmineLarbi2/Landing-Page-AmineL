@@ -388,6 +388,7 @@ h3{
 @media (max-width: 1000px) {
     .section-blue{
         width:100%;
+        padding:40px 0px;
     }
 
     .banner{
